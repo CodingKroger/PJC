@@ -1,0 +1,21 @@
+Names,Price,Had Earnings?,Industry,Number of patents,Number of Hospitals,Performs procedure ABC,Comments,Company ID
+Company 1,199,Yes,Healthcare,6,48,TRUE,This company is the worst company ever. In existence I would never buy and don’t plan on ever buying. Boooo,12401
+company 2,782,Yes,Healthcare,17,35,TRUE,New technology coming out pending patent. Price target of $840,28200
+Company 3,670,No,Healthcare,9,20,TRUE,,23620
+Company 4,10,No,Healthcare,14,23,FALSE,Yes. Just buy it PT $22,48161
+Company 5,589,No,Healthcare,14,25,TRUE,Earnings coming up. Jeff doesn't think that company 4 took many clients away and is playing it long,47209
+Comp. 6,105,No,Healthcare,20,18,TRUE,"Nowhere to go but up, PT 115",11262
+Company 7,566,No,Healthcare,19,28,TRUE,Not sure of this company. Chad agrees that the new product isn't what customers thought pt 550,29828
+Company 8,839,No,Healthcare,17,54,TRUE,,22746
+Company 9,245,Yes,Healthcare,5,35,FALSE,,44814
+company 10,809,No,Healthcare,17,47,TRUE,,30452
+C 11,819,Yes,Healthcare,7,18,TRUE,,37005
+Company 12,191,Yes,Healthcare,18,41,TRUE,Long Fund LLP is very bullish on this PT 230,15552
+Company 13,436,Yes,Healthcare,15,40,FALSE,,21579
+Company 14,394,Yes,Healthcare,12,37,FALSE,,44799
+Company 15,460,Yes,Healthcare,19,30,TRUE,"Short Fund LLP doesn't think CEO can lead, sales down 5% q/q pt 430",13379
+company 16,810,Yes,Healthcare,18,30,TRUE,,20658
+Company 17,95,No,Healthcare,9,31,FALSE,,17590
+Company 18,933,Yes,Healthcare,12,20,FALSE,,20990
+Comp. 19,324,No,Healthcare,20,54,TRUE,No major catalyst in the near future. PT 326,23597
+Company 20,740,No,Healthcare,14,33,TRUE,,23651
